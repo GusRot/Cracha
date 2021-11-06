@@ -54,9 +54,9 @@ main {
 }
 
 .container-cracha {
-    background: url(https://bn02pap001files.storage.live.com/y4mcftRAR80z-PPCcp6aieDqcQtMozaX5UbtJgxK_wRpF7vUoO3cMEDt9JmVxRKbk4FkQU-yJhfacd1S5DXIKTzbdM7M9ogUjF6TodZYHtz_RHjRc32sOHD8Hstkglryizc9ts17vCRYVMb96sveSQC3chEscUn6Cj-_wEbn4nESNbsfdx6PIGOE9_X5TiT-KMO?width=358&height=540&cropmode=none);
-    height: 32rem;
-    width: 22.2rem;
+    background: url(images/background.svg);
+    height: 35rem;
+    width: 23.4rem;
     position: absolute;
     top: 9rem;
     display: flex;
