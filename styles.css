@@ -54,9 +54,9 @@ main {
 }
 
 .container-cracha {
-    background: url(images/background.svg);
-    height: 34rem;
-    width: 23.4rem;
+    background: url(https://bn02pap001files.storage.live.com/y4mcftRAR80z-PPCcp6aieDqcQtMozaX5UbtJgxK_wRpF7vUoO3cMEDt9JmVxRKbk4FkQU-yJhfacd1S5DXIKTzbdM7M9ogUjF6TodZYHtz_RHjRc32sOHD8Hstkglryizc9ts17vCRYVMb96sveSQC3chEscUn6Cj-_wEbn4nESNbsfdx6PIGOE9_X5TiT-KMO?width=358&height=540&cropmode=none);
+    height: 32rem;
+    width: 22.2rem;
     position: absolute;
     top: 9rem;
     display: flex;
@@ -65,11 +65,11 @@ main {
     align-items: center;
     gap: 0.4rem;
     border: 1px double rgba(229,229,229,0.5);
-    padding: 2rem 2rem 0;
+    padding: 1rem 1rem 0;
 }
 
 .img-perfil {
-    height: 11.5rem;
+    height: 11rem;
     width: 11rem;
     clip-path: polygon(50% 0, 100% 22%, 100% 72.7%, 50.8% 100%, 0 72%, 0 22%);
 }
