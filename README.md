@@ -1,6 +1,9 @@
 # Cracha
 Desenvolvido durante NLW Heat - Imersão Rocketseat
 
-Crachá para simular as credenciais de entrada do evento
+[Acesse aqui](https://gusrot.github.io/Cracha/)
 
-[Acesse aqui o resultado](https://gusrot.github.io/Cracha/)
+# Badge
+Developed during NLW Heat - Rocketseat Immersion
+
+[Acesse aqui](https://gusrot.github.io/Cracha/)
