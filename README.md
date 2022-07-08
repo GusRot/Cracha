@@ -6,4 +6,4 @@ Desenvolvido durante NLW Heat - Imersão Rocketseat
 # Badge
 Developed during NLW Heat - Rocketseat Immersion
 
-[Acesse aqui](https://gusrot.github.io/Cracha/)
+[Access here](https://gusrot.github.io/Cracha/)
